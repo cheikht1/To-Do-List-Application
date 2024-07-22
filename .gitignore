@@ -47,4 +47,3 @@ package.json
 # Ignore the config.xml file
 config.xml
 
-www/lib/
